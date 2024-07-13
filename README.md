@@ -1,5 +1,5 @@
 # AgroSys 🌱
-LA BÚSQUEDA DE PRECIOS EN EL ÁMBITO AGRÍCOLA Y LA INDUSTRIA DE LA AGRICULTURA SOSTENIBLE. La agricultura ha representado uno de los principales renglones de la economía en el mundo. 
+LA BÚSQUEDA DE PRECIOS EN EL ÁMBITO AGRÍCOLA Y LA AGRICULTURA SOSTENIBLE. La agricultura ha representado uno de los principales renglones de la economía en el mundo. 
 
 > ![Lej: braynSramos](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 > ![Lej: braynSramos](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
